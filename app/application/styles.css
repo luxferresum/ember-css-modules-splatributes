@@ -1,0 +1,7 @@
+.outer-local-class {
+  border: 10px solid red;
+}
+
+:global(.outer-class) {
+  border: 10px solid blue;
+}

@@ -1,0 +1,7 @@
+.inner-local-class {
+  background: red;
+}
+
+:global(.inner-class) {
+  background: yellow;
+}
